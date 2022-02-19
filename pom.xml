@@ -15,10 +15,10 @@
 	</description>
 	
 	<property>
-	    <sonar.host.url>http://192.168.161.136:9000/</sonar.host.url>
-	 <sonar.login>admin</sonar.login>
-	 <sonar.password>admin</sonar.password>
-	   <property>
+	   	<sonar.host.url>http://192.168.161.136:9000/</sonar.host.url>
+	 	<sonar.login>admin</sonar.login>
+	 	<sonar.password>admin</sonar.password>
+	 <property>
 
 	<modules>
 		<module>corporate-pom</module>
