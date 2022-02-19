@@ -14,8 +14,8 @@
 		In the real enterprise scenario it does not make sense to aggregate all company projects.
 	</description>
 	
-	<porperty>
-		<sonar.host.url>http://192.168.161.136:9000/</sonar.host.url>
+	<property>
+	    <sonar.host.url>http://192.168.161.136:9000/</sonar.host.url>
 	 <sonar.login>admin</sonar.login>
 	 <sonar.password>admin</sonar.password>
 	   <property>
