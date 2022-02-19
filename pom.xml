@@ -13,6 +13,12 @@
 		With the aggregate POM, all M4Enterprise modules can be managed at this level. 
 		In the real enterprise scenario it does not make sense to aggregate all company projects.
 	</description>
+	
+	<porperty>
+		<sonar.host.url>http://192.168.161.136:9000/</sonar.host.url>
+	 <sonar.login>admin</sonar.login>
+	 <sonar.password>admin</sonar.password>
+	   <property>
 
 	<modules>
 		<module>corporate-pom</module>
